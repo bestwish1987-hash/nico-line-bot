@@ -1,0 +1,15 @@
+{
+  "name": "nico-line-bot",
+  "version": "1.0.0",
+  "description": "Nico的私人助理 LINE Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
